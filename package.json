@@ -1,0 +1,20 @@
+{
+  "name": "ydkjs",
+  "version": "0.0.1",
+  "description": "Playground for the You Don't Know JS(yet) book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "YDKJS",
+    "javascript"
+  ],
+  "type": "module",
+  "author": "Anders CLark",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "expect": "^26.6.1"
+  }
+}
